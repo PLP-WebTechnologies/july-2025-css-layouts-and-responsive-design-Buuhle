@@ -1,0 +1,13 @@
+header {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 20px 40px;
+  background-color: lightpink;
+}
+.nav-links {
+  margin-left: 20px;
+  text-decoration: none;
+  color: darkred;
+  font-weight: bold;
+}  
